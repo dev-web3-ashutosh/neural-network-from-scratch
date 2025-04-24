@@ -1,1 +1,1 @@
-# neural-network-from-scratch
+https://www.youtube.com/watch?v=w8yWXqWQYmU
